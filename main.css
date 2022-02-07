@@ -2,8 +2,8 @@ body {margin: 0;
     background-color: blanchedalmond;
     }
 .battery{
-    margin-top: 90px;
     margin: auto;
+    margin-top: 200px;
     width: 200px;
     height: 100px;
     border: 3px #333 solid;
